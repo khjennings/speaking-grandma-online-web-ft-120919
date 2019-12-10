@@ -13,8 +13,8 @@
 # 'I LOVE YOU TOO PUMPKIN!'
 if ==".downcase"
   puts "HUH?! SPEAK UP,SONNY!"
-elseif == ".upcase"
+elseif ==".upcase"
   puts "NO, NOT SINCE 1938!"
-else == "I LOVE YOU GRANDMA!"
+else =="I LOVE YOU GRANDMA!"
   puts "I LOVE YOU TOO PUMPKIN!"
 end
