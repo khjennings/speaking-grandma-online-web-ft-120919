@@ -11,7 +11,7 @@
 
 # However if you say 'I LOVE YOU GRANDMA!', she should respond with
 # 'I LOVE YOU TOO PUMPKIN!'
-if == ".downcase"
+if ==".downcase"
   puts "HUH?! SPEAK UP,SONNY!"
 elseif == ".upcase"
   puts "NO, NOT SINCE 1938!"
